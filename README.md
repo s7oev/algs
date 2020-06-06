@@ -1,13 +1,13 @@
 # Princeton's Algorithms
-s7oev/princetonAlgorithms is my proof that I have finished the courses **Algorithms, Part I** and **Algorithms, Part II**. Both are available on Coursera ([P1](https://www.coursera.org/learn/algorithms-part1), [P2](https://www.coursera.org/learn/algorithms-part2)), and together form the equivalent of Princeton's on-campus algorithms course: COS226. You can read [my review of the course on my blog](https://s7oev.com/blog/2020/05/24/my-review-of-princetons-algorithms/).
+s7oev/algs is my proof that I have finished the courses **Algorithms, Part I** and **Algorithms, Part II**. Both are available on Coursera ([P1](https://www.coursera.org/learn/algorithms-part1), [P2](https://www.coursera.org/learn/algorithms-part2)), and together form the equivalent of Princeton's on-campus algorithms course: COS226. You can read [my review of the course on my blog](https://s7oev.com/blog/2020/05/24/my-review-of-princetons-algorithms/).
 
 **Do note that I'm following the course's honor code and not sharing publically the solutions to the programming assignments**. So, this repository contains my solutions, however, they are in **password-protected** ZIP archives. If you have a valid reason for wanting to check out my code, email me on stoikostoev12345@gmail.com! Besides this, publically available are the output of the graders for my solutions, the assignments themselves, and a screenshot of the submission pages for the assignments (to monitor how my grades progress).
 
 The folders have the following structure:
-***(assignment name).zip*** :: my solution (password-protected)
-***(assignment name)-assignment.pdf*** :: the assignment specification from Princeton, printed to PDF
-***(assignment name)-grader-output.txt*** :: the automated grader's feedback on my best submission
-***(assignment name)-submission-page.pdf*** :: Coursera's submission page for the assignment showing my grade progress
+* **_(assignment name).zip_** :: my solution (password-protected)
+* **_(assignment name)-assignment.pdf_** :: the assignment specification from Princeton, printed to PDF
+* **_(assignment name)-grader-output.txt_** :: the automated grader's feedback on my best submission
+* **_(assignment name)-submission-page.pdf_** :: Coursera's submission page for the assignment showing my grade progress
 
 # Syllabus
 ## Part I
