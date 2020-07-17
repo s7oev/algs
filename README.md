@@ -4,7 +4,7 @@ s7oev/algs is my proof that I have finished the courses **Algorithms, Part I** a
 **Do note that I'm following the course's honor code and not sharing publically the solutions to the programming assignments**. So, this repository contains my solutions, however, they are in **password-protected** ZIP archives. If you have a valid reason for wanting to check out my code, email me on stoikostoev12345@gmail.com! Besides this, publically available are the output of the graders for my solutions, the assignments themselves, and a screenshot of the submission pages for the assignments (to monitor how my grades progress).
 
 The folders have the following structure:
-* **_(assignment name).zip_** :: my solution (password-protected)
+* **_(assignment name)-encrypted.zip_** :: my solution (password-protected)
 * **_(assignment name)-assignment.pdf_** :: the assignment specification from Princeton, printed to PDF
 * **_(assignment name)-grader-output.txt_** :: the automated grader's feedback on my best submission
 * **_(assignment name)-submission-page.pdf_** :: Coursera's submission page for the assignment showing my grade progress
